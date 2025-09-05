@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hola! My name is Clara and I am a PhD student at the University of Munich (LMU). In my research, I critically evaluate two types of algorithmic tools.
+
+First, refugee-location matching tools such as GeoMatch, Annie™ Moore, Re:Match, Match’In, and RUTH. These tools assign newly arriving refugees to locations (e.g., local affiliates in the U.S. or cantons in Switzerland) with the stated goal of improving their integration. Many of these tools are currently being piloted in a number of countries.
+
+Second, risk assessment tools such as VioGén in Spain, which classify women who report having experienced intimate partner violence into risk groups.
+
+Through my work, I aim to raise awareness of these systems and advocate for greater fairness, transparency, and accountability in their design and use.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
